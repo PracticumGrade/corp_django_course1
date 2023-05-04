@@ -75,7 +75,7 @@ python -m pip install --upgrade pip
 ```
 
 ### Установка зависимостей из файла *requirements.txt*:
-Находясь в папке *Dev/anfisa1sprint/*, выполните команду:
+Находясь в папке *Dev/corp_django_course1/*, выполните команду:
 
 ```bash
 pip install -r requirements.txt
